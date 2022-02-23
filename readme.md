@@ -18,6 +18,10 @@ The protocols used for the various communication stages are as seen in the pictu
 ![image](https://user-images.githubusercontent.com/16540739/155374104-9e0b2a3b-c3c4-4a81-84dd-0ce83a47d103.png)
 
 ### Framworks used:
-maven (servers build), spring boot(websocket and STOMP), mosquito broker (MQTT)
+* maven (servers build)
+* spring boot(websocket and STOMP)
+* mosquito broker (MQTT)
+
+
 The project was run on 2 android smartphones, and 2 windows laptps(on Intelij IDEA) on a local network with data that was already gathered.
 
