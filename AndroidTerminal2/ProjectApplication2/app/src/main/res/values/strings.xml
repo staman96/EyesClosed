@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectApplication2</string>
+    <string-array name="numbers">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+</resources>
