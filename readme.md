@@ -1,4 +1,4 @@
-# Assignment in Software Development for Networks and Telecommications
+# Assignment in Software Development for Networks and Telecommunications
 
 #### Authors:
 
